@@ -159,7 +159,7 @@ body {
   margin: 5px;
   padding: 2%;
 }
-.instagram .youtube{
+.instagram:hover, .youtube:hover{
   color: red;
 }
 .ftxt{
