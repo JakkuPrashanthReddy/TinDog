@@ -159,7 +159,9 @@ body {
   margin: 5px;
   padding: 2%;
 }
-
+.footer-links:hover{
+  color: #ff4c68;
+}
 .ftxt{
   margin: 10px;
   padding: 10px
